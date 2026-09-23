@@ -2,7 +2,7 @@
 # SELinux Access Denial Practical
 # Student Name:
 # Register Number:
-
+ 
 echo "~~~~~ SELinux Status ~~~~~"
 sestatus
 getenforce
